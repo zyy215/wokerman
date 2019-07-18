@@ -137,7 +137,6 @@ public function pushMsg()
 ## Available commands
 ```php WorkermanPush.php start  ```  
 ```php WorkermanPush.php start -d  ```  
-![image-20190718172323697](/Users/zyy/Library/Application Support/typora-user-images/image-20190718172323697.png)
 ```php WorkermanPush.php status  ```  
 ```php WorkermanPush.php connections```  
 ```php WorkermanPush.php stop  ```  
